@@ -1,14 +1,8 @@
 # 👨‍💻 Guilherme De Oliveira
 
-**`Dev em desenvolvimento`**
+**`Jovem profissional de T.I em desenvolvimento`**
 
-Tenho 16 anos e atualmente atuo na área de suporte técnico N1, onde desenvolvo habilidades essenciais como resolução de problemas, atendimento ao usuário e análise de sistemas. Essa experiência me proporciona uma base sólida em ambientes de TI e na identificação de necessidades reais dos usuários.
-
-Além disso, estou em constante evolução para me tornar desenvolvedor, estudando programação, lógica e boas práticas de desenvolvimento de software. Tenho grande interesse em criar soluções eficientes e funcionais.
-
-Também venho aprofundando meus conhecimentos em DevOps e automação, trabalhando com ferramentas como Docker, Zabbix e n8n, o que me permite entender melhor a integração entre desenvolvimento e infraestrutura. Busco sempre automatizar processos, melhorar fluxos de trabalho e aumentar a eficiência dos sistemas.
-
-Sou uma pessoa curiosa, dedicada e comprometida com meu crescimento profissional, sempre em busca de novos desafios e aprendizados na área de tecnologia.
+Guilherme, tenho 16 anos. Jovem Profissional de Tecnologia da informação com grande interesse por inovação, resolução de problemas e aprimoramento contínuo. Apaixonado por aprender e aplicar conhecimentos em tecnologia para melhorar a experiência dos usuários e otimizar processos. Busco constantemente me atualizar com as tendências do setor de T.I, desenvolvendo tanto competências técnicas quanto habilidades interpessoais, com o objetivo de crescer profissionalmente e contribuir de forma significativa no mercado da tecnologia.
 
 <p align="left">
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=guilhermedeoliveiramiguens@gmail.com&tf=cm" title="Gmail">
@@ -18,39 +12,16 @@ Sou uma pessoa curiosa, dedicada e comprometida com meu crescimento profissional
 </p>
 
 
-### 🤖 Linguagens em Desenvolvimento 
+### 📚 Oque estou estudando atualmente?
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+- Algoritmo
+- Lógica de programação
 
-<img
-align="left"
-alt="Node.js"
-title="Node.js"
-width="30px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
+### ⚙ Ferramentas que estou tendo contato
+
+- Zabbix - Monitoramento
+- N8N - Automação
+
           
 
 
