@@ -22,6 +22,7 @@ Guilherme, tenho 16 anos. Jovem Profissional de Tecnologia da informação com g
 - Zabbix
 - N8N
 - GLPI
+- Anydesk
 
           
 
