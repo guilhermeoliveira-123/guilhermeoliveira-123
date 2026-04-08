@@ -18,7 +18,7 @@ Sou uma pessoa curiosa, dedicada e comprometida com meu crescimento profissional
 </p>
 
 
-### 🤖 Linguagens 
+### 🤖 Linguagens em Desenvolvimento 
 
 <img 
     align="left" 
