@@ -45,8 +45,13 @@ Sou uma pessoa curiosa, dedicada e comprometida com meu crescimento profissional
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-
-
+<img
+align="left"
+alt="Node.js"
+title="Node.js"
+width="30px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
+          
 
 
 
