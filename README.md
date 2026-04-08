@@ -11,10 +11,10 @@ Também venho aprofundando meus conhecimentos em DevOps e automação, trabalhan
 Sou uma pessoa curiosa, dedicada e comprometida com meu crescimento profissional, sempre em busca de novos desafios e aprendizados na área de tecnologia.
 
 <p align="left">
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" title="Gmail">
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" alt="Gmail"/></a>
-<a href="www.linkedin.com/in/guilhermedeoliveiramiguens" title="LinkedIn">
-<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/guilhermedeoliveiramiguens" alt="LinkedIn"/></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=guilhermedeoliveiramiguens@gmail.com&tf=cm" title="Gmail">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?fs=1&to=guilhermedeoliveiramiguens@gmail.com&tf=cm" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/guilhermedeoliveiramiguens/" title="LinkedIn">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermedeoliveiramiguens/" alt="LinkedIn"/></a>
 </p>
 
 
@@ -44,7 +44,6 @@ Sou uma pessoa curiosa, dedicada e comprometida com meu crescimento profissional
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 
 
 
