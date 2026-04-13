@@ -1,10 +1,14 @@
 # 👨‍💻 Guilherme De Oliveira
 
-**`Full Stack Developer`**
+**`Desenvolvedor Full Stack em formação`**
 
-Sou estudante de Engenharia de Software com foco no desenvolvimento Full Stack, criando aplicações completas que integram front-end, back-end e banco de dados.
-Tenho interesse em construir soluções eficientes, escaláveis e bem estruturadas, aplicando boas práticas de desenvolvimento e buscando constante evolução técnica. Além disso, venho expandindo meus conhecimentos em DevOps e infraestrutura, com foco em automação, integração contínua (CI/CD) e ambientes em cloud.
-Estou sempre em busca de novos desafios e oportunidades para aprender, colaborar e desenvolver soluções que gerem impacto real.
+Aos 16 anos, iniciei minha jornada no mundo da tecnologia com o objetivo de me tornar um desenvolvedor Full Stack e construir uma carreira sólida na área de desenvolvimento web.
+
+Atualmente estou me capacitando por meio de um curso completo de desenvolvimento web, onde estou aprendendo desde os fundamentos até conceitos mais avançados, incluindo HTML5, CSS3, JavaScript, Bootstrap, PHP, MySQL e Node.js. Também venho desenvolvendo conhecimentos em APIs REST, versionamento com Git e GitHub e fundamentos de frameworks como Laravel e CodeIgniter.
+
+Acredito no aprendizado contínuo e na prática como principal forma de evolução, por isso estou sempre buscando criar projetos e aprimorar minhas habilidades técnicas.
+
+
 
 <p align="left">
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=guilhermedeoliveiramiguens@gmail.com&tf=cm" title="Gmail">
