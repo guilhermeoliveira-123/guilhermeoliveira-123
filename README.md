@@ -6,7 +6,7 @@ Estudante de Engenharia de Software com 1 ano e meio de experiência no setor de
 
 Atualmente, estou direcionando minha carreira para o desenvolvimento de software, aprofundando meus conhecimentos em programação, boas práticas de código e construção de aplicações. Tenho como objetivo evoluir continuamente como desenvolvedor, aplicando na prática o que aprendo e contribuindo para a criação de soluções eficientes.
 
--Front-end
+## 🖥️ Front-end
 HTML
 CSS
 JavaScript
