@@ -1,4 +1,4 @@
-# 👨‍💻 Guilherme De Oliveira
+# 👨‍💻 Guilherme Oliveira
 
 **`Desenvolvedor Full Stack em formação`**
 
