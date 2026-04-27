@@ -6,7 +6,7 @@ Desenvolvedor Front-end em formação, com cerca de 1 ano e meio de experiência
 
 Atualmente, estou focado no desenvolvimento de interfaces modernas e responsivas, utilizando HTML, CSS, JavaScript e React, além de aplicar boas práticas de código e usabilidade.
 
-Busco evoluir continuamente como desenvolvedor, adquirindo experiência prática e contribuindo com
+Busco evoluir continuamente como desenvolvedor, adquirindo experiência prática e contribuindo com projetos que gerem impacto real.
 
 
 <p align="left">
