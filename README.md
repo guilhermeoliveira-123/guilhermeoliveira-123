@@ -1,6 +1,6 @@
 # 👨‍💻 Guilherme Oliveira
 
-**`Desenvolvedor`**
+**`Desenvolvedor Full Stack em formação`**
 
 Estudante de Engenharia de Software com 1 ano e meio de experiência no setor de tecnologia. Iniciei minha carreira na área de suporte técnico N1, onde desenvolvi habilidades sólidas em resolução de problemas, atendimento ao usuário.
 
