@@ -2,9 +2,11 @@
 
 **`Desenvolvedor Full Stack em formação`**
 
-Estudante de Engenharia de Software com 1 ano e meio de experiência no setor de tecnologia. Iniciei minha carreira na área de suporte técnico N1, onde desenvolvi habilidades sólidas em resolução de problemas, atendimento ao usuário.
+Desenvolvedor Full Stack em formação, com cerca de 1 ano e meio de experiência na área de tecnologia. Iniciei minha trajetória atuando com suporte técnico N1, onde desenvolvi uma base sólida em resolução de problemas, atendimento ao usuário e análise de incidentes, o que fortaleceu minha visão prática sobre sistemas e infraestrutura.
 
-Atualmente, estou direcionando minha carreira para o desenvolvimento de software, aprofundando meus conhecimentos em programação, boas práticas de código e construção de aplicações. Tenho como objetivo evoluir continuamente como desenvolvedor, aplicando na prática o que aprendo e contribuindo para a criação de soluções eficientes.
+Com o tempo, passei a direcionar minha carreira para o desenvolvimento de software, buscando aprofundar meus conhecimentos em programação, lógica, boas práticas de código e construção de aplicações completas. Tenho grande interesse em entender não apenas como desenvolver, mas também como estruturar soluções eficientes, escaláveis e bem organizadas.
+
+Meu objetivo é evoluir continuamente como desenvolvedor, adquirindo experiência sólida tanto no front-end quanto no back-end, e contribuir com projetos que gerem impacto real. Estou sempre em busca de novos desafios, aprendizado constante e oportunidades para crescer profissionalmente na área de tecnologia.
 
 
 <p align="left">
