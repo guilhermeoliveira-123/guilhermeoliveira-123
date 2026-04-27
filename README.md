@@ -1,12 +1,12 @@
 # 👨‍💻 Guilherme Oliveira
 
-**`Desenvolvedor Full Stack em formação`**
+**`Desenvolvedor Front-end em formação | HTML • CSS • JavaScript • React`**
 
-Desenvolvedor Full Stack em formação, com cerca de 1 ano e meio de experiência na área de tecnologia. Iniciei minha trajetória atuando com suporte técnico N1, onde desenvolvi uma base sólida em resolução de problemas, atendimento ao usuário e análise de incidentes, o que fortaleceu minha visão prática sobre sistemas e infraestrutura.
+Desenvolvedor Front-end em formação, com cerca de 1 ano e meio de experiência na área de tecnologia. Iniciei minha trajetória como suporte técnico N1, onde desenvolvi habilidades em resolução de problemas, atendimento ao usuário e análise de incidentes.
 
-Com o tempo, passei a direcionar minha carreira para o desenvolvimento de software, buscando aprofundar meus conhecimentos em programação, lógica, boas práticas de código e construção de aplicações completas. Tenho grande interesse em entender não apenas como desenvolver, mas também como estruturar soluções eficientes, escaláveis e bem organizadas.
+Atualmente, estou focado no desenvolvimento de interfaces modernas e responsivas, utilizando HTML, CSS, JavaScript e React, além de aplicar boas práticas de código e usabilidade.
 
-Meu objetivo é evoluir continuamente como desenvolvedor, adquirindo experiência sólida tanto no front-end quanto no back-end, e contribuir com projetos que gerem impacto real. Estou sempre em busca de novos desafios, aprendizado constante e oportunidades para crescer profissionalmente na área de tecnologia.
+Busco evoluir continuamente como desenvolvedor, adquirindo experiência prática e contribuindo com
 
 
 <p align="left">
